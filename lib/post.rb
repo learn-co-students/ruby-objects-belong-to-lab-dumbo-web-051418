@@ -8,3 +8,4 @@ class Post
   end
 
 end
+ 
